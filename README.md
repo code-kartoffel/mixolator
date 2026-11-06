@@ -1,6 +1,6 @@
 # MIXOLATOR
 
-A single-file, offline recipe calculator for the wet lab. It turns a library of stock
+A single-file, offline recipe calculator for the wet lab with password protection. It turns a library of stock
 solutions into a ready-to-pipette recipe, shows the volume of every component, flags the
 ones that need attention, and exports a formatted spreadsheet with the calculations kept
 as live formulas.
